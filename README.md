@@ -1,5 +1,5 @@
 # Test3 
-## Testing Checkout
+## Testing Checkout for Bug 2
 
 ## Testing 2
 
